@@ -1,3 +1,9 @@
+# Abolut this project.
+
+This is a learning project, based on two youtube tutorial related to React, contentful, and styled components.
+https://www.youtube.com/watch?v=LXJOvkVYQqA
+https://www.youtube.com/watch?v=02zO0hZmwnw
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
