@@ -8,6 +8,7 @@ const GlobalStlyes = createGlobalStyle`
     body {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         line-height: 1.4;
+        background-color: #757575;
     }
 `
 

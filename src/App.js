@@ -19,12 +19,11 @@ function App() {
   return (
     <ThemeProvider theme = {theme}>
       <GlobalStlyes />
-      <Header/>
       <BrowserRouter>
+      <Header/>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/rooms" element={<Rooms />} >
-          </Route>
+          <Route path="/rooms" element={<Rooms />} />
           <Route path="/rooms/:roomId" element={<SingleRoom />} />
           <Route path="*" element={<Error />} />
         </Routes>

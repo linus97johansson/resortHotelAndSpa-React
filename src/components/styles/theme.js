@@ -1,10 +1,12 @@
 const theme = {
     colors: {
-        header: '#eeaaee',
+        header: '#1E1E1E',
+        highlight: '#F4943B'
     },
     sizes:{
         large: '3rem',
         medium: '2rem',
+        small: '1.75rem',
         text: '0.9rem',
     },
     breakpoints:{
